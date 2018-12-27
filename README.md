@@ -1,8 +1,7 @@
-# Myapp 1.0
+# Myapp 1.0 
+![alt text](https://travis-ci.org/amansubhan/angular.svg?branch=master "Logo Title Text 1")
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
-
-[logo]: https://travis-ci.org/amansubhan/angular.svg?branch=master
 
 ## Development server
 
